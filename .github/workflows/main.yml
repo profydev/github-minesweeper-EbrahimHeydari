@@ -1,4 +1,4 @@
-name: CI
+name: CI Minesweeper
 
 on:
   pull_request:
