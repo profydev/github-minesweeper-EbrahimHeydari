@@ -1,3 +1,10 @@
 {
-  "commands": ["CLear E6", "CLear F2", "CLear C2", "CLear H1", "Flag F1"]
+  "commands": [
+    "CLear E6",
+    "CLear F2",
+    "CLear C2",
+    "CLear H1",
+    "Flag F1",
+    "Flag F8"
+  ]
 }
