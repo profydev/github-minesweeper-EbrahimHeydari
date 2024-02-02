@@ -19,6 +19,7 @@
     "Flag C6",
     "Flag B6",
     "Clear G1",
-    "Clear H2"
+    "Clear H2",
+    "unflag B6"
   ]
 }
